@@ -1,8 +1,0 @@
-table, tr, td {
-    border: 1px solid #333;
-    border-collapse: collapse;
-    padding: 5px;
-    text-align: center;
-}
-.text-center{text-align: center;}
-table{margin-bottom: 15px;}
