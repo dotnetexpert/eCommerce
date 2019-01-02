@@ -1,0 +1,16 @@
+<div>
+  <div class="text-center">
+    <table>
+      <tr *ngFor="let user of productlist">
+        <td>
+    <label>Item</label>: <label>{{user.ProductName}}</label></td>    
+
+    <td><label>Price</label>:  <label>{{user.ProductPrice}}</label></td>
+    <td>
+    <input type="button" value="Buy" (click)="confirmOrder(user)"/>
+  </td>
+  </tr>
+  </table>
+  </div>
+  <input type="button" value="Logout" (click)="logout()"/>
+</div>
