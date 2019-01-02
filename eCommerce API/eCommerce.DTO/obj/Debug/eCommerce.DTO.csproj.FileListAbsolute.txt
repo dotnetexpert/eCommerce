@@ -1,0 +1,6 @@
+C:\Users\Dotnet\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DTO\bin\Debug\eCommerce.DTO.dll
+C:\Users\Dotnet\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DTO\bin\Debug\eCommerce.DTO.pdb
+C:\Users\Dotnet\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DTO\obj\Debug\eCommerce.DTO.csprojAssemblyReference.cache
+C:\Users\Dotnet\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DTO\obj\Debug\eCommerce.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Dotnet\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DTO\obj\Debug\eCommerce.DTO.dll
+C:\Users\Dotnet\Documents\Visual Studio 2017\Projects\eCommerce\eCommerce.DTO\obj\Debug\eCommerce.DTO.pdb
